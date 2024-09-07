@@ -3,6 +3,7 @@ My name is Shriti yadav and i am currently a 2nd year student pursuing my btech 
 I'm currently learning DSA using c++ and java.
 I have learned languages like C, C++ and java but comfortable in c++.
 I have also learned HTML and CSS and currently started with JS.
+now i have modified this.
 <!--
 **Shriti1210/Shriti1210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
